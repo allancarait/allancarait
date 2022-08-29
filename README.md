@@ -4,7 +4,7 @@ I'm a Software Engineer that loves to work with complex systems that helps bette
 
 I'm a proud Filipino currently living in the USA. 
 
-I started my career in 2010 as a backend engineer and now, I'm working as a full-stack developer. I occassinaly dabble on solutions architecture and cloud technologies like AWS. I love learning new concepts about backend, frontend web and mobile.
+I started my career in 2010 as a backend engineer and now, I'm working as a full-stack developer. I also like to dabble on solutions architecture and cloud technologies like AWS. I love learning new concepts about backend, frontend web and mobile.
 
 Some hard skills I have been practicing are: 
 
