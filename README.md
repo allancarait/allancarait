@@ -1,23 +1,22 @@
 👋 Hi, I’m @allancarait
 
-I'm a Software Engineer that loves to work with complex systems that helps better peoples lives. I have a penchant for coding, solving problems, creating and delivering immersive user experiences. 
+I am a Software Engineer with a passion for working on intricate systems that enhance people's lives. Coding, problem-solving, and creating immersive user experiences are my areas of expertise.
 
-I'm a proud Filipino currently living in the USA. 
+Originally from the Philippines, I currently reside in the United States and take pride in my Filipino heritage.
 
-I started my career in 2010 as a backend engineer and now, I'm working as a full-stack developer. I also like to dabble on solutions architecture and cloud technologies like AWS. I love learning new concepts about backend, frontend web and mobile.
+My professional journey began in 2010 as a backend engineer, and over time, I transitioned into a full-stack developer. Alongside, I also enjoy exploring solutions architecture and cloud technologies like AWS. I constantly seek to expand my knowledge of backend, frontend web, and mobile development, eagerly embracing new concepts.
 
-Some hard skills I have been practicing are: 
+Here are some of the hard skills I have honed:
 
-- C# & VB.NET
-- ReactJS 
-- Javascript and Typescript
-- Frontend architectures using state management tools like Redux
-- Backend development using .NET with emphasis on REST APIs and Clean Architecture
-- Automated end-to-end test using Selenium and nUnit
+- Proficiency in C# & VB.NET
+- Experience with ReactJS, JavaScript, and TypeScript
+- Expertise in frontend architectures utilizing state management tools like Redux
+- Strong background in backend development, particularly in .NET with a focus on REST APIs and Clean Architecture
+- Aptitude in automated end-to-end testing using Selenium and NUnit
 
-I'm passionate about self-improvement. Some soft skills I have:
+Beyond technical expertise, I am deeply committed to self-improvement. My soft skills include:
 
-- Lifelong learner
-- Very communicative
-- Friendly and helpful
-- Really like to help the dev community
+- A lifelong learner, consistently seeking growth opportunities
+- Excellent communication skills, fostering effective collaboration
+- Friendly and approachable, always ready to offer assistance
+- A genuine enthusiasm for supporting the development community
